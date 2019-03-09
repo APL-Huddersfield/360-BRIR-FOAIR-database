@@ -18,7 +18,7 @@ The files are named after their relative position on the stage and the distance 
 * L = Left
 * LW = Left Wide
 
-[Stage Layout 2.pdf](https://github.com/APL-Huddersfield/360-BRIR-FOAIR-database/files/2948461/Stage.Layout.2.pdf)
+![](img/Stage-Layout.png)
 
 ## Publication
 This database was presented at the Audio Engineering Society 146th International Convention.
