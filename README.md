@@ -9,7 +9,7 @@ An open-access database for 360° binaural room impulse responses (BRIR) capture
 
 ## Folder Structure
 The impulse responses are organised into two main folders:
-* Binaural: Contains the SOFA files and MATLAB files for each position, recorded with the Neumann KU100 binaural head.
+* Binaural: Contains the SOFA files and MATLAB files for each position, with a 3.6° angular resolution, recorded with the Neumann KU100 binaural head.
 * FOA: Contains the First Order Ambisonics audio files in A format and B format for each individual position, recorded with an Sennheiser Ambeo microphone in an end-fire configuration.  
 
 ## Naming Convention
@@ -20,6 +20,13 @@ The files are named after their relative position on the stage and the distance 
 
 ![](img/Stage-Layout.png)
 
+## License
+This project is licensed under the CC-BY-4.0 License - see the License.txt file for details
+
 ## Publication
 This database was presented at the Audio Engineering Society 146th International Convention.
 Download link: http://www.aes.org/e-lib/browse.cfm?elib=20371
+
+## Referencing
+If you use the database for your research, please reference it as follows.
+Bacila, B. I., & Lee, H. (2019). 360° Binaural Room Impulse Response (BRIR) Database for 6DOF Spatial Perception Research. Presented at the Audio Engineering Society Convention 146, Dublin, e-Brief 513
