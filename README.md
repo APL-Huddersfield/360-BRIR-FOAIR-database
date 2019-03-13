@@ -22,4 +22,4 @@ The files are named after their relative position on the stage and the distance 
 
 ## Publication
 This database was presented at the Audio Engineering Society 146th International Convention.
-Download link:
+Download link: http://www.aes.org/e-lib/browse.cfm?elib=20371
